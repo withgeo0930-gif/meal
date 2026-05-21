@@ -1,0 +1,6 @@
+{
+  "name": "씨마스고등학교 급식",
+  "description": "사용자 현재 날짜 및 한국 표준시(KST) 기준으로 자동으로 연동되어 식단표 및 영양계산을 제공하는 급식 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
